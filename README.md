@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Student Name]
+# 👋 Hi, I'm Swale Siddiqui
 
-🎓 B.Tech in Electrical and Electronics Engineering (EEE) | 💻 Tech Enthusiast | 🚀 Aspiring Software Developer
+🎓 B.Tech in Electronics and Communication Engineering (EC) | 💻 Tech Enthusiast | 🚀 Aspiring Software Developer
 
 ---
 
@@ -15,9 +15,9 @@ I believe in continuous learning and adapting, and I'm actively building project
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, JavaScript, C
-- **Web Development**: HTML, CSS, React, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code, Postman
+- **Web Development**: HTML, CSS, React
+- **Databases**: MySQL
+- **Tools & Platforms**: GitHub, VS Code
 - **Currently Exploring**: DevOps, Docker, Cloud (AWS/Azure), AI/ML basics
 
 ---
@@ -36,9 +36,9 @@ Here are some of the projects I’ve worked on or am currently building:
 
 ## 📫 Let’s Connect
 
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub**: [Your GitHub Username]
-- **Email**: [Your Email Address]
+- **LinkedIn**: https://www.linkedin.com/in/swale-siddiqui-8a387a2a5/
+- **GitHub**: https://github.com/swale-coder
+- **Email**: swalesiddiqui505@gmail.com
 
 ---
 
