@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swale Siddiqui
 
-🎓 B.Tech in Electronics and Communication Engineering (EC) | 💻 Tech Enthusiast | 🚀 Aspiring Software Developer
+🎓 B.Tech in Electronics and Communication Engineering (EC) | 💻 Passionate about technology and innovation | 🚀 Aspiring Software Developer with a focus on building impactful digital experiences.
 
 ---
 
